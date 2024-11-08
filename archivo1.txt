@@ -1,2 +1,2 @@
 ARCHIVO INICIAL DEL REPO
-Agregando lineas desde la el usuario invitado y en la rama 2.0
+Agregando lineas desde el usuario invitado y en la rama versión 2.0
